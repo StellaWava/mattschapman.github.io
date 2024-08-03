@@ -1,4 +1,4 @@
-## What can Alternative fuel Stations tell us about fuel Distribution in USA, North America?
+## Selected projects in data science, machine learning and NLP
 
 ---
 
